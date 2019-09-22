@@ -1,10 +1,14 @@
 //
-//  GameUITests.swift
-//  GameUITests
+//  MainMenu.swift
+//  Doughnut Game
 //
-//  Created by 🐨 on 15/08/2019.
+//  Created by rHockWorks on 15/08/2019.
 //  Copyright © 2019 rHockWorks. All rights reserved.
 //
+// THIS CODE IS MOSTLY FROM SAGNOR "ALEX" NAGY FROM REBELOPER.COM
+// I HAVE SLIGHTLY MODIFIED THE CODE AS I WENT ALONG THE YOUTUBE TUTORIAL : https://www.youtube.com/watch?v=yWB5Md7PHwU&t=21s
+// I HOPE YOU ENJOY THE CHANGES
+
 
 import XCTest
 
